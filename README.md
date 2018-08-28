@@ -13,7 +13,7 @@ It contains one map with a test track and some grass, traffic cones, blueprints 
 ## Installation
 
 
-For this project to work properly you will need to have installed Unreal Engine 4 and AirSim plugin.
+For this project to work properly you will need Unreal Engine 4 and AirSim plugin to be installed on your computer.
 
 
 ### Install Unreal Engine
