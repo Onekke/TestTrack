@@ -108,7 +108,7 @@ After all preparations are done you can finally `git clone https://github.com/On
 5. Press `F5` to run. This will build your project and start the Unreal Editor.
 6. When in Unreal Editor navigate to `World Settings`, which should be on the right side of the Editor window below `World Outliner`.
 
-**Note:** If you do not see it select `Window` from the menu bar and choose `World Settings` from the list below.
+**Note:** If you do not see it, navigate to `Window` on the menu bar and choose `World Settings` from the list below.
 
 7.  Be sure to `Save` your changes.
 
