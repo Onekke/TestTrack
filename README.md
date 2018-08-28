@@ -19,9 +19,6 @@ For this project to work properly you will need Unreal Engine 4 and AirSim plugi
 ### Install Unreal Engine
 
 
-In case you do not have it already installed on your computer follow the steps below.
-
-
 #### Windows
 
 
