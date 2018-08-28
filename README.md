@@ -78,22 +78,19 @@ After all preparations are done you can finally `git clone https://github.com/On
 ```
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.18",
-	"Category": "Samples",
+	"EngineAssociation": "4.20",
+	"Category": "",
 	"Description": "",
+	"Enterprise": true,
 	"Modules": [
 		{
-			"Name": "LandscapeMountains",
+			"Name": "TestTrack",
 			"Type": "Runtime",
 			"LoadingPhase": "Default",
 			"AdditionalDependencies": [
 				"AirSim"
 			]
 		}
-	],
-	"TargetPlatforms": [
-		"MacNoEditor",
-		"WindowsNoEditor"
 	],
 	"Plugins": [
 		{
