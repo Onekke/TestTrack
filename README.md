@@ -75,7 +75,6 @@ After all preparations are done you can finally `git clone https://github.com/On
 2. Edit the `TestTrack.uproject` so that it looks like this:
 
 ```
-
 {
 	"FileVersion": 3,
 	"EngineAssociation": "4.18",
@@ -110,6 +109,7 @@ After all preparations are done you can finally `git clone https://github.com/On
 6. When in Unreal Editor navigate to `World Settings`, which should be on the right side of the Editor window below `World Outliner`.
 
 **Note:** If you do not see it select `Window` from the menu bar and choose `World Settings` from the list below.
+
 7.  Be sure to `Save` your changes.
 
 **Note:** I do not provide a guide on adding AirSim plugin to Unreal project on Linux since I did not have a good experience with it. Although if you build your project on Windows there should not be any problems migrating it on Linux. 
