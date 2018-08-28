@@ -108,6 +108,7 @@ After all preparations are done you can finally `git clone https://github.com/On
 3. Right click the `TestTrack.uproject` in Windows Explorer and select `Generate Visual Studio Project Files`. This step detects all plugins and source files in your Unreal project and generates `.sln` file for Visual Studio.
 ![Screenshot1](https://github.com/Onekke/TestTrack/blob/master/screenshots/Screenshot1.png)
 4. Reopen `TestTrack.sln` in Visual Studio, and make sure `DebugGame Editor` and `Win64` build configuration is the active build configuration.
+
 ![Screenshot2](https://github.com/Onekke/TestTrack/blob/master/screenshots/Screenshot2.png)
 5. Press `F5` to run. This will build your project and start the Unreal Editor.
 6. When in Unreal Editor navigate to `World Settings`, which should be on the right side of the Editor window below `World Outliner`.
