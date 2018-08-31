@@ -124,6 +124,7 @@ After all preparations are done you can finally `git clone https://github.com/On
 
 1. While creating the project in Unreal Engine I followed the [Unreal Assets Naming Convention](https://wiki.unrealengine.com/Assets_Naming_Convention), so getting around it should be pretty straight forward.
 2. When in Unreal Editor you will always see an empty new level at start, navigate to `Maps/TestMaps` and doubleclick `TestTrack` this will load the map with a test track and everything else set and ready to play around with.
-3. As default day/night cycle is set to be changed in a very short period of time. To change that or use system time instead click on `Edit BP_Day_Night_Cycle`in `World Outliner`, then change `New Rate` value in `Set Play Rate` or follow the comments in the blueprint to set the system time in use.
-4. To activate/diactivate rain press `G` when in `Play` or navigate to `Blueprints > Open Level Blueprint` to make any changes you want.
+3. As default day/night cycle is set to be changed in a very short period of time. To change that or use system time instead click on `Edit BP_Day_Night_Cycle` in `World Outliner`, then change `New Rate` value in `Set Play Rate` or follow the comments in the blueprint to set the system time in use.
+4. To activate/diactivate rain press `G` while in `Play mode` or navigate to `Blueprints > Open Level Blueprint` to make any changes you want.
 5. While in `Play` press `F1` to toggle `Help` screen from AirSim plugin for some usefull shortcuts.
+6. To activate/deactivate day/night cycle press `T` while in `Play mode`. That will trigger cycle to start from the noon or stop at time set to 12:00am. In case you want to change that time setting navigate to `Edit BP_Day_Night_Cycle` in `World Outliner` and change `Set` node `NewTime` to new value.
