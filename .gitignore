@@ -75,3 +75,22 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Other stuff
+.idea/*
+.kdev4/*
+.vscode/*
+Plugins/AirSim/*
+CMakeLists.txt
+Makefile
+TestTrack.code-workspace
+TestTrack.kdev4
+TestTrack.pro
+TestTrack.workspace
+TestTrackCodeCompletionFolders.txt
+TestTrackCodeLitePreProcessor.txt
+TestTrackConfig.pri
+TestTrackDefines.pri
+TestTrackHeader.pri
+TestTrackIncludes.pri
+TestTrackSource.pri
